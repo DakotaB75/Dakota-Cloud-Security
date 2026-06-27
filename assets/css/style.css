@@ -1,0 +1,29 @@
+body::before{
+
+content:"";
+
+position:fixed;
+
+inset:0;
+
+background:
+
+radial-gradient(circle at top right,
+
+rgba(0,120,212,.18),
+
+transparent 45%);
+
+pointer-events:none;
+
+z-index:-1;
+
+}
+
+main{
+
+position:relative;
+
+z-index:2;
+
+}
