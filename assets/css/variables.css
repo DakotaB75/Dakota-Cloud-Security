@@ -1,0 +1,31 @@
+:root{
+
+    --background:#020814;
+
+    --background-light:#081120;
+
+    --glass:rgba(13,24,45,.45);
+
+    --glass-border:rgba(255,255,255,.08);
+
+    --azure:#0078D4;
+
+    --azure-light:#3aa0ff;
+
+    --azure-dark:#005ba1;
+
+    --white:#ffffff;
+
+    --text:#e8edf5;
+
+    --text-secondary:#9aa7ba;
+
+    --shadow:0 10px 35px rgba(0,0,0,.45);
+
+    --blur:blur(18px);
+
+    --radius:22px;
+
+    --transition:.35s ease;
+
+}
