@@ -14,22 +14,20 @@ function figmaAssetResolver() {
     },
   }
 }
-
 export default defineConfig({
-  base: '/Dakota-Cloud-Security/',
+  base: "/Dakota-Cloud-Security/",
 
   plugins: [
     figmaAssetResolver(),
-
     react(),
     tailwindcss(),
   ],
 
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, './src'),
+      "@": path.resolve(__dirname, "./src"),
     },
   },
 
-  assetsInclude: ['**/*.svg', '**/*.csv'],
-})
+  assetsInclude: ["**/*.svg", "**/*.csv"],
+});
