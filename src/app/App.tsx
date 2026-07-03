@@ -968,8 +968,8 @@ export default function App() {
                 <div style={{ position: "relative" }}>
                   <div style={{ width: 120, height: 120, borderRadius: 28, overflow: "hidden", border: "3px solid rgba(59,128,244,.45)", boxShadow: "0 0 40px rgba(59,128,244,.35)" }}>
                    <img
-                      src="/src/app/components/images/Foto_Profesional.jpg"
-                      alt="Dakota Bazan — Cloud Security Specialist"
+src="/assets/images/profile/Foto_Profesional.jpg"
+alt="Dakota Bazan — Cloud Security Specialist"
                       style={{ width: "100%", height: "100%", objectFit: "cover" }}
                     />
                   </div>
